@@ -1,6 +1,6 @@
 # edx_course_templater
 
-This [web page](https://harvardx.github.io/edx_course_templater/index.html) generates edX course structures in a tarball file that can be immediately imported to EdX Studio. You fill out the form to describe your course, selecting things like the number of sections, whether they focus on video/text/problems, whether the first/last pages are different, etc. The course comes wrapped in a boilerplate course with standard intro and wrap-up materials.
+This [web page](https://github.com/mdbc-tech/edx_course_templater/index.html) generates edX course structures in a tarball file that can be immediately imported to EdX Studio. You fill out the form to describe your course, selecting things like the number of sections, whether they focus on video/text/problems, whether the first/last pages are different, etc. The course comes wrapped in a boilerplate course with standard intro and wrap-up materials.
 
 As per usual, these will overwrite your existing course, so don't import them on top of a course where you've already done work. Instead, use this early in your process to save you the tedium of building out hundreds of blank components.
 
